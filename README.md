@@ -50,7 +50,7 @@ git config --global user.name "golam chowdhury"
 > to un-stage the file
 (the version from time-line Head replaces the staging version)
 
-## git checkout -- <file>
+## git checkout -- filename
 
 > blow away all changes in this file since last commit
 
