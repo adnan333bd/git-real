@@ -110,6 +110,18 @@ git config --global user.name "golam chowdhury"
 
 > shows branch list
 
+## git merge f2018
+
+> merges f2018 into current branch, its a fast forward merge if original branch was not modified meantime
+
+## git branch -d f2018
+
+> removing branch f2018
+
+## git checkout -b feat
+
+> created a branch named feat and checked it out
+
 ## 
 
 
