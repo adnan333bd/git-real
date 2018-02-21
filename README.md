@@ -66,6 +66,53 @@ git config --global user.name "golam chowdhury"
 
 > this commit will merge with last commit and overwrite commit message
 
+## git reset --hard HEAD^
+
+> blow away last commit and all changes
+
+## git reset --hard HEAD^^ 
+
+> blow away last two commits and all changes
+
+## git remote add origin https://aaaadfdfd.git
+
+> adding remote 'origin'
+
+## git remote add \<name> \<address>
+
+> adding new remote
+
+## git remote rm \<name>
+
+> removing remote
+
+## git push -u \<remote-name> \<local-branch-name>
+
+> local branch to remote push [ if -u is used, next time only git push will work ]
+
+## password caching
+
+> https://help.github.com/articles/set-up-git
+
+## git clone url
+
+> local directory and repo and added remote 
+
+## git branch feature2018
+
+> creates a new branch
+
+## git checkout f2018
+
+> switches branch
+
+## git branch
+
+> shows branch list
+
+## 
+
+
 
 
 
