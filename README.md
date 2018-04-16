@@ -122,7 +122,13 @@ git config --global user.name "golam chowdhury"
 
 > created a branch named feat and checked it out
 
-## 
+## git pull
+
+> git fetch and then merges the origin/master to master
+
+## git commit -a
+
+> after resolving conflicts manually, to do merge commit
 
 
 
