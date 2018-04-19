@@ -130,6 +130,9 @@ git config --global user.name "golam chowdhury"
 
 > after resolving conflicts manually, to do merge commit
 
+## git checkout -b feature dev
+> created a new branch from dev branch
+
 
 
 
