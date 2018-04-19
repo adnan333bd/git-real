@@ -86,7 +86,7 @@ git config --global user.name "golam chowdhury"
 
 > removing remote
 
-## git push -u \<remote-name> \<local-branch-name>
+## git push -u <remote-name> <local-branch-name>
 
 > local branch to remote push [ if -u is used, next time only git push will work ]
 
