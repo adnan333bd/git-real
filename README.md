@@ -121,6 +121,23 @@
 ## git checkout shopping_cart
 > Branch shopping_cart set up to track remote branch shopping_cart from origin. Switched to a new branch 'shopping_cart' (another developer does this.) 
 
+##  git branch --set-upstream-to=origin/admin admin
+> branch 'admin' set up to track remote branch 'admin' from 'origin' (means local 'admin' merges with remote 'admin')
+
+## git branch -m <oldname> <newname>
+> how to rename a local branch
+
+## git push origin :shopping_cart
+> deletes remote branch shopping_cart, but keeps the local intact
+
+## git branch -d shopping_cart
+> deletes local branch shopping_cart if changes are merged to some other branch, if not, it shows warning
+
+## git branch -D shopping_cart
+> then deletes the local branch, even if there are unmerged changes in this branch
+
+
+
 
 
 
