@@ -121,9 +121,9 @@
 ## git checkout shopping_cart
 > Branch shopping_cart set up to track remote branch shopping_cart from origin. Switched to a new branch 'shopping_cart' (another developer does this.) 
 
-## local master to origin master
-> git push --set-upstream origin master
-> git branch --set-upstream-to=origin/master
+## git push --set-upstream origin master
+## git branch --set-upstream-to=origin/master
+ local master to origin master
 
 
 
